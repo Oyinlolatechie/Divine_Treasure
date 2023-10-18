@@ -6,7 +6,6 @@ import { Link } from "react-router-dom";
 
 const AboutUs = () => {
 
-
     return (
         <div className="about-us">
             <div className="aboutUs-content">
